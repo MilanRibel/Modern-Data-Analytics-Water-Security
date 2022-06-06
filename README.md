@@ -1,6 +1,6 @@
 # Modern-Data-Analytics-Water-Security
 
 
-This repository contains code and files for publishing a Folium map as a very simple GitHub Pages site.
+The Github page contians the codes for the Water Security project
 
-you can see the map via this link: https://mdawatersecurity.herokuapp.com/
+There are maps about Water stress, and you can see the map via this link: https://mdawatersecurity.herokuapp.com/
